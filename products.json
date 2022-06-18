@@ -1,1 +1,12 @@
-{"coke": "25", "sprite": "25", "royal": "25", "coke ": "25", "ewan": "30"}
+[
+    {
+     "product_ID": "1003",
+     "product_name": "Royal",
+     "price_entry": "30"
+    },
+    {
+     "product_ID": "1001",
+     "product_name": "Coke",
+     "price_entry": "20"
+    }
+   ]
